@@ -1,0 +1,1 @@
+This is a markdown file for a test of vscode Source Control Manager.
